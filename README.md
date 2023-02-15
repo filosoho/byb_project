@@ -1,9 +1,8 @@
 Git is Awesome!
 This repository contains a single file helloWorld.py with the following Python code:
 
-python
-
 print("Git is Awesome!")
+
 This code simply prints the message "Git is Awesome!" to the console.
 
 This repository is a demonstration of the power and simplicity of Git. With just a few simple commands, you can create a repository, add a file, make changes to that file, and push those changes to a remote repository on GitHub.
